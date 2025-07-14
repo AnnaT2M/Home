@@ -83,7 +83,7 @@ font-size:100%;
 }
 
 #float-Left{
-float: left;
+float: center;
 position: relative;
 Width: 100%;
 }
